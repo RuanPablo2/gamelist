@@ -26,4 +26,6 @@ public class GameListService {
         GameList result = gameListRepository.findById(id).get();
         return new GameListDTO(result);
     }
+
+
 }
