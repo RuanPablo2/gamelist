@@ -70,7 +70,7 @@ docker-compose up -d
 
 ## 📦 Deploy
 
-A API está hospedada na plataforma **Railway**, garantindo escalabilidade e fácil manutenção. Futuramente, será integrado o **Spring Security** para autenticação e autorização de usuários.
+A API está hospedada na plataforma **Railway**, garantindo uma esteira de CI/CD para escalabilidade e fácil manutenção. Futuramente, será integrado o **Spring Security** para autenticação e autorização de usuários.
 
 ## 📜 Licença
 
